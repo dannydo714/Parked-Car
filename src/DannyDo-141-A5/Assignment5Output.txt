@@ -1,0 +1,52 @@
+
+... set minutes purchased to 60, and
+	parked for 125 minutes...
+Car Data:
+Make: Volkswagen
+Model: 2002
+Color: Red
+License Number: 3RHZ147
+Minutes Parked: 125
+
+Officer Data:
+Name: Joe Friday
+BadgeNumber: 4788
+
+Minutes Illegally Parked: 65
+Fine: $45.0
+
+...change minutes parked to 60...
+No crimes committed!
+
+...change minutes parked to 61...
+Car Data:
+Make: Volkswagen
+Model: 2002
+Color: Red
+License Number: 3RHZ147
+Minutes Parked: 61
+
+Officer Data:
+Name: Joe Friday
+BadgeNumber: 4788
+
+Minutes Illegally Parked: 1
+Fine: $35.0
+
+...change car model to 2010...
+Car Data:
+Make: Volkswagen
+Model: 2010
+Color: Red
+License Number: 3RHZ147
+Minutes Parked: 61
+
+Officer Data:
+Name: Joe Friday
+BadgeNumber: 4788
+
+Minutes Illegally Parked: 1
+Fine: $35.0
+
+...change minutes purchased to 70...
+No crimes committed!
